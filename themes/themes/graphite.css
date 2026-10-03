@@ -1,0 +1,53 @@
+/* ioDek theme: Graphite */
+/* Gris neutres, cartes peu arrondies. / Neutral greys, slightly rounded cards. */
+.bord {
+    --b-bg: #0d0d0f;
+    --b-tile: #1a1b1e;
+    --b-line: #2a2c30;
+    --b-text: #f2f2f3;
+    --b-dim: #9a9ca3;
+    --b-muted: #a7a9af;
+    --b-cyan: #4fc3f7;
+    --b-amber: #ffb74d;
+    --b-blue: #7986cb;
+    --b-warn: #ef5350;
+    --b-green: #66bb6a;
+    --b-on-accent: #0d0d0f;
+    --b-live: #66bb6a;
+    --b-idle: #75787f;
+    --b-track: #26282c;
+    --b-bar-start: #546e7a;
+    --b-bar-mid: #4fc3f7;
+    --b-bar-end: #66bb6a;
+    --b-band-bg: #222428;
+    --b-band: #3f4650;
+    --b-button: #202226;
+    --b-press: #2c2f34;
+    --b-icon: #b4b6bc;
+    --b-field: #17181b;
+    --b-peek: rgba(13, 13, 15, .92);
+    --b-raise: #222428;
+    --b-outline: #3a3d42;
+    --b-panel: #17181b;
+    --b-panel-line: #303237;
+    --b-seg-on: #2e3136;
+    --b-hover: #50545b;
+    --b-selected: #ffffff;
+    --b-shadow: rgba(0, 0, 0, .6);
+    --b-backdrop: rgba(0, 0, 0, .72);
+    --b-overlay: rgba(8, 8, 10, .92);
+    --b-frame: #3a3d42;
+    --b-flow-drive: #4fc3f7;
+    --b-flow-regen: #66bb6a;
+    --b-flow-charge: #7986cb;
+    --b-flow-heat: #ffb74d;
+    --b-flow-body: #222428;
+    --b-flow-line: #60646c;
+    --b-flow-glass: #2c2f34;
+    --b-flow-shell: #0d0d0f;
+    --b-flow-tire: #08080a;
+    --b-flow-rim: #80848c;
+    --b-flow-track: rgba(150, 150, 160, .3);
+    --b-flow-text: #f2f2f3;
+    --b-radius: 10px;
+}

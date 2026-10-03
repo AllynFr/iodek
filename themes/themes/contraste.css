@@ -1,0 +1,53 @@
+/* ioDek theme: Contraste élevé */
+/* Noir, blanc et jaune, contraste maximal. / Black, white and yellow, maximum contrast. */
+.bord {
+    --b-bg: #000000;
+    --b-tile: #000000;
+    --b-line: #ffffff;
+    --b-text: #ffffff;
+    --b-dim: #e0e0e0;
+    --b-muted: #ffffff;
+    --b-cyan: #ffd400;
+    --b-amber: #ff9f1a;
+    --b-blue: #6cb6ff;
+    --b-warn: #ff5c5c;
+    --b-green: #3dff8b;
+    --b-on-accent: #000000;
+    --b-live: #3dff8b;
+    --b-idle: #bdbdbd;
+    --b-track: #333333;
+    --b-bar-start: #ffd400;
+    --b-bar-mid: #ffd400;
+    --b-bar-end: #ffd400;
+    --b-band-bg: #1a1a1a;
+    --b-band: #808080;
+    --b-button: #000000;
+    --b-press: #333333;
+    --b-icon: #ffffff;
+    --b-field: #000000;
+    --b-peek: rgba(0, 0, 0, .95);
+    --b-raise: #1a1a1a;
+    --b-outline: #ffffff;
+    --b-panel: #000000;
+    --b-panel-line: #ffffff;
+    --b-seg-on: #333333;
+    --b-hover: #ffd400;
+    --b-selected: #ffd400;
+    --b-shadow: rgba(0, 0, 0, .8);
+    --b-backdrop: rgba(0, 0, 0, .85);
+    --b-overlay: rgba(0, 0, 0, .95);
+    --b-frame: #ffffff;
+    --b-flow-drive: #ffd400;
+    --b-flow-regen: #3dff8b;
+    --b-flow-charge: #6cb6ff;
+    --b-flow-heat: #ff9f1a;
+    --b-flow-body: #000000;
+    --b-flow-line: #ffffff;
+    --b-flow-glass: #1a1a1a;
+    --b-flow-shell: #000000;
+    --b-flow-tire: #000000;
+    --b-flow-rim: #ffffff;
+    --b-flow-track: rgba(255, 255, 255, .35);
+    --b-flow-text: #ffffff;
+    --b-radius: 8px;
+}

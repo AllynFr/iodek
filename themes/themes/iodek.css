@@ -1,0 +1,52 @@
+/* ioDek theme: ioDek */
+/* Thème d'origine : bleu nuit presque noir, cyan du logo. / Original theme: near-black navy, logo cyan. */
+.bord {
+    --b-bg: #00070f;
+    --b-tile: #051526;
+    --b-line: #11293f;
+    --b-text: #eaf3fb;
+    --b-dim: #8ba2ba;
+    --b-muted: #9fb6cc;
+    --b-cyan: #21d0fd;
+    --b-amber: #f4a340;
+    --b-blue: #4d8dff;
+    --b-warn: #f07167;
+    --b-green: #0ed8bd;
+    --b-on-accent: #001526;
+    --b-live: #2fd27a;
+    --b-idle: #6b7f93;
+    --b-track: #0b2135;
+    --b-bar-start: #0f54cc;
+    --b-bar-mid: #21d0fd;
+    --b-bar-end: #0ed8bd;
+    --b-band-bg: #0a1d30;
+    --b-band: #1b5170;
+    --b-button: #081b2d;
+    --b-press: #0c2236;
+    --b-icon: #a9bccf;
+    --b-field: #06121f;
+    --b-peek: rgba(4, 14, 24, .92);
+    --b-raise: #0b1f33;
+    --b-outline: #1d3a57;
+    --b-panel: #061727;
+    --b-panel-line: #1a3653;
+    --b-seg-on: #11304b;
+    --b-hover: #2c5a85;
+    --b-selected: #ffffff;
+    --b-shadow: rgba(0, 0, 0, .6);
+    --b-backdrop: rgba(0, 0, 0, .7);
+    --b-overlay: rgba(0, 6, 14, .92);
+    --b-frame: #2a3b4f;
+    --b-flow-drive: #21d0fd;
+    --b-flow-regen: #0ed8bd;
+    --b-flow-charge: #5b9bff;
+    --b-flow-heat: #f4a340;
+    --b-flow-body: #061e36;
+    --b-flow-line: #4d7194;
+    --b-flow-glass: #0b2d4d;
+    --b-flow-shell: #000e1c;
+    --b-flow-tire: #02101d;
+    --b-flow-rim: #6b8aa8;
+    --b-flow-track: rgba(107, 138, 168, .3);
+    --b-flow-text: #e7f1f9;
+}

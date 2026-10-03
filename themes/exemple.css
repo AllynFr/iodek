@@ -1,0 +1,28 @@
+/* ioDek theme: Mon thème */
+/*
+ * Exemple de thème ioDek : seules des variables --b-… dans un bloc .bord { … } (ou :root { … }).
+ * Les variables absentes gardent la valeur du thème ioDek. Liste complète : README.md.
+ * Example ioDek theme: only --b-… variables inside a .bord { … } (or :root { … }) block.
+ * Missing variables keep the ioDek value. Full list: README.en.md.
+ */
+.bord {
+    /* Surfaces et textes / Surfaces and text */
+    --b-bg: #10131a;
+    --b-tile: #1a1f2b;
+    --b-line: #2b3346;
+    --b-text: #f1f4fa;
+    --b-dim: #9aa5bd;
+
+    /* Accent et alerte / Accent and alert */
+    --b-cyan: #7cc4ff;
+    --b-warn: hsl(4, 85%, 66%);
+    --b-amber: rgb(255, 184, 77);
+
+    /* Panneaux du mode édition / Edit mode panels */
+    --b-panel: #151a24;
+    --b-panel-line: #2b3346;
+
+    /* Formes / Shapes */
+    --b-radius: 12px;
+    --b-gap: 0.75rem;
+}

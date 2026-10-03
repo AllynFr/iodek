@@ -1,0 +1,52 @@
+/* ioDek theme: Tesla clair */
+/* Fond clair, lisible au soleil. / Light background, readable in sunlight. */
+.bord {
+    --b-bg: #e9eef3;
+    --b-tile: #ffffff;
+    --b-line: #c9d4df;
+    --b-text: #0b1b2b;
+    --b-dim: #4a5b6e;
+    --b-muted: #4a5b6e;
+    --b-cyan: #0077a8;
+    --b-amber: #b45309;
+    --b-blue: #2756c5;
+    --b-warn: #c0392b;
+    --b-green: #0a7d6c;
+    --b-on-accent: #ffffff;
+    --b-live: #1e9e57;
+    --b-idle: #8a99a8;
+    --b-track: #dbe3ea;
+    --b-bar-start: #0f54cc;
+    --b-bar-mid: #0a7ea4;
+    --b-bar-end: #0b8a78;
+    --b-band-bg: #e3eaf1;
+    --b-band: #9cc3d8;
+    --b-button: #f3f6f9;
+    --b-press: #dde6ee;
+    --b-icon: #4a5b6e;
+    --b-field: #ffffff;
+    --b-peek: rgba(255, 255, 255, .94);
+    --b-raise: #e3eaf1;
+    --b-outline: #9fb0c1;
+    --b-panel: #ffffff;
+    --b-panel-line: #c9d4df;
+    --b-seg-on: #dbe7f2;
+    --b-hover: #6f93b5;
+    --b-selected: #0b1b2b;
+    --b-shadow: rgba(11, 27, 43, .18);
+    --b-backdrop: rgba(11, 27, 43, .45);
+    --b-overlay: rgba(233, 238, 243, .94);
+    --b-frame: #9fb0c1;
+    --b-flow-drive: #0a7ea4;
+    --b-flow-regen: #0b8a78;
+    --b-flow-charge: #0f54cc;
+    --b-flow-heat: #b45309;
+    --b-flow-body: #eef4fa;
+    --b-flow-line: #5b6f86;
+    --b-flow-glass: #cfe0f0;
+    --b-flow-shell: #ffffff;
+    --b-flow-tire: #1f2a36;
+    --b-flow-rim: #8193a8;
+    --b-flow-track: rgba(91, 111, 134, .28);
+    --b-flow-text: #0b1b2b;
+}

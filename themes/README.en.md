@@ -162,7 +162,7 @@ The theme is saved with the layout of the screen profile (Car, or Phone or compu
 
 ## Checking a file
 
-With PHP 8.1 or later:
+With PHP 8.1 or later, from the `themes/` folder of the repository:
 
 ```sh
 php scripts/check-theme.php themes/my-theme.css
